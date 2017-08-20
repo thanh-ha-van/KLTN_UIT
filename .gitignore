@@ -1,2 +1,9 @@
-build/android-profile/
-build/generated/mockable-android-26.jar
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild

@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginRight="20dp"
-            android:text="@string/passion"
+            android:text="some word"
             android:textColor="@color/white"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="top|right"
             android:layout_marginTop="40dp"
-            android:text="@string/reliable"
+            android:text="some word"
             android:textColor="@color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
@@ -60,7 +60,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="70dp"
-            android:text="@string/clever"
+            android:text="some word"
             android:textColor="@color/white"
             android:textSize="25sp"
             android:textStyle="bold" />
@@ -110,7 +110,7 @@
     </FrameLayout>
 
 
-    <vn.magik.hot8.customviews.CustomTextView
+    <thanh.ha.gifted.customviews.CustomTextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="30dp"

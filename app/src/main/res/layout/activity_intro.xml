@@ -37,12 +37,12 @@
             android:gravity="center"
             android:orientation="horizontal" />
 
-        <vn.magik.hot8.customviews.CustomTextView
+        <thanh.ha.gifted.customviews.CustomTextView
             android:id="@+id/tv_next"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="10dp"
-            android:text="@string/keep_go_on"
+            android:text="Next"
             android:textColor="@color/white"
             android:textSize="20sp"
             app:font="Trebuchet.ttf" />

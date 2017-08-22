@@ -12,12 +12,12 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <vn.magik.hot8.customviews.CustomTextView
+        <thanh.ha.gifted.customviews.CustomTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="bottom"
-            android:text="Trash"
+            android:text="LoL"
             android:textColor="@color/white"
             android:textSize="100sp" />
 

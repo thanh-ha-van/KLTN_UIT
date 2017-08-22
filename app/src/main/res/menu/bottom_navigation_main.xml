@@ -4,19 +4,19 @@
     <item
         android:id="@+id/action_summary"
         android:enabled="true"
-        android:icon="@drawable/ic_the_cup"
+        android:icon="@drawable/ic_home"
         android:title="@string/text_summary"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_quest"
         android:enabled="true"
-        android:icon="@drawable/ic_the_fire"
+        android:icon="@drawable/ic_cube"
         android:title="@string/text_quest"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_setting"
         android:enabled="true"
-        android:icon="@drawable/ic_the_settings"
+        android:icon="@drawable/ic_controls"
         android:title="@string/text_setting"
         app:showAsAction="ifRoom" />
 </menu>

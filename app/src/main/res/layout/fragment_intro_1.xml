@@ -62,12 +62,12 @@
                 android:layout_height="24dp"
                 android:src="@drawable/ic_question" />
 
-            <vn.magik.hot8.customviews.CustomTextView
+            <thanh.ha.gifted.customviews.CustomTextView
                 android:id="@+id/tv_word_challenge"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
-                android:text="@string/easy"
+                android:text="lol"
                 android:textSize="14sp"
                 android:textStyle="bold" />
 
@@ -92,12 +92,12 @@
                 android:layout_height="20dp"
                 android:src="@drawable/ic_question" />
 
-            <vn.magik.hot8.customviews.CustomTextView
+            <thanh.ha.gifted.customviews.CustomTextView
                 android:id="@+id/tv_message_2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
-                android:text="@string/curious"
+                android:text="some word"
                 android:textSize="13sp"
                 android:textStyle="bold" />
 
@@ -120,26 +120,25 @@
                 android:layout_height="30dp"
                 android:src="@drawable/ic_question" />
 
-            <vn.magik.hot8.customviews.CustomTextView
+            <thanh.ha.gifted.customviews.CustomTextView
                 android:id="@+id/tv_message_3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="5dp"
-                android:text="@string/smart"
+                android:text="some word"
                 android:textSize="17sp"
                 android:textStyle="bold" />
 
         </LinearLayout>
     </FrameLayout>
 
-
-    <vn.magik.hot8.customviews.CustomTextView
+    <thanh.ha.gifted.customviews.CustomTextView
         android:id="@+id/tv_message_intro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="30dp"
         android:gravity="center"
-        android:text="@string/msg_intro_1_0"
+        android:text="@string/intro_1"
         android:textColor="@color/white"
         android:textSize="16sp"
         app:font="Trebuchet.ttf" />

@@ -1,42 +1,15 @@
 <resources>
-    <string name="app_name">Ice5</string>
-    <string name="message_notification">Mỗi ngày với 5 từ mới tiếng anh nào.</string>
-    <string name="text_summary">Tatistics</string>
-    <string name="text_quest">Quest</string>
+    <string name="app_name">Gifted</string>
+    <string name="text_summary">Home</string>
+    <string name="text_quest">Offers</string>
     <string name="text_setting">Settings</string>
-    <string name="choose_word_for_to_day">Hãy chọn %d từ để học vào hôm nay!</string>
-    <string name="choose_word_for_tomorrow">Hãy chọn %d từ để học vào ngày mai!</string>
-    <string name="word_is_ready_to_repeat">%d từ đang đợi để bạn lặp lại!</string>
-    <string name="format_more_practice_word">Chúng ta có %d từ trong từ điển\nChúng ta sẽ lặp lại nó chứ?</string>
-    \
-    <string name="title_master_a_part_words">Bạn thật tuyệt!\nChúng ta đã luyện tập thêm %d từ nữa.</string>
-    <string name="title_master_a_part_words_1">Hay quá\n%1$d trên %2$d từ là rất tốt.</string>
-    <string name="title_master_a_part_words_2">Làm tốt đấy!\nChúng ta sẽ luyện tập với %d từ tiếp theo.</string>
-    <string name="title_master_a_part_words_3">Làm tốt đấy!\nChúng ta sẽ luyện tập với %d từ còn lại.</string>
-    <string name="title_master_all_word">Làm tốt đấy\nBạn làm tốt với %d từ!</string>
 
-    <string name="confirm_practice">Hãy dành 30 giây để kiểm tra xem chúng ta đã nhớ hết tất cả chưa</string>
-    <string name="msg_intro_1_0">A wise man once said that "One man's trash is another man treasure"</string>
-    <string name="intro_2">By giving away your old stuffs, you will help creating better world, better environment, helping other peoples. </string>
-    <string name="intro_3">Just post what you want to give away. The app will help you to find who really need that.</string>
-    <string name="intro_4">Then you blah blah blah</string>
-    <string name="do_fast_test">Hãy làm bài trắc nghiệm nhanh \nđể tạo chương trình học \ncủa riêng bạn</string>
-    <string name="skip_test">Bỏ qua bài kiểm tra</string>
-    <string name="do_test">Bắt đầu bài kiểm tra</string>
-    <string name="format_word_to_learn">%s từ đã sẵn sàng để bạn học</string>
-    <string name="msg_detect_challenge_word">Đã phát hiện thêm %d từ thách thức</string>
-    <!-- For views -->
-    <string name="msg_test_result">Bạn đã hoàn thành bài kiểm tra với kết quả %d%%</string>
-    <string name="msg_suggest_level">Chúng ta có thể bắt đầu với\ncấp độ %s</string>
-    <string name="keep_level_select">Giữ cấp độ %s</string>
-    <string name="keep_go_on">Tiếp</string>
-    <string name="easy">easy</string>
-    <string name="curious">curious</string>
-    <string name="smart">smart</string>
-    <string name="clever">clever</string>
-    <string name="reliable">reliable</string>
-    <string name="passion">passion</string>
-    <string name="msg_detect_challenge">đã phát hiện %d từ thách thức</string>
-    <string name="format_change_level">Cấp độ: %1$s, %2$d chủ đề</string>
-    <string name="format_choice_word">Đã chọn %1$d trong số %2$d</string>
+    <string name="intro_1">A wise man once said that "One man's trash is another man treasure"</string>
+    <string name="intro_2">Some intro sentence</string>
+    <string name="intro_3">Some intro sentence </string>
+    <string name="intro_4">Some intro sentence </string>
+    <string name="do_fast_test">Some intro sentence </string>
+    <string name="do_test">Start</string>
+
+
 </resources>

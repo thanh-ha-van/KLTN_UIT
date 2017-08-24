@@ -10,6 +10,6 @@
     <string name="intro_4">Some intro sentence </string>
     <string name="do_fast_test">Some intro sentence </string>
     <string name="do_test">Start</string>
-
-
+    <string name="title_of_item_hint">Title of item...</string>
+    <string name="short_description">A short description ...</string>
 </resources>
